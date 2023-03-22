@@ -21,6 +21,8 @@ Business data as available for both categorical and continous variables. Data av
 ##Some Key Results
 **Sales by Outlet**
 ![Sales by Outlet](https://user-images.githubusercontent.com/99395688/226849271-e274dc01-e405-4a1c-8059-c5266fde8d31.png)
+
+
 **Errors of the Simple regression plotted by Indeex
 ![Errors of Predicted Variables](https://user-images.githubusercontent.com/99395688/226849309-7a23902c-f329-429d-ab2e-39cdfd4e436f.png)
 
