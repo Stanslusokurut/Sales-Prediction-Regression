@@ -12,5 +12,7 @@ Business data as available for both categorical and continous variables. Data av
 * Establishment year
 * Fat content of the items  and other location and product identifiers 
 
+###The dataset had 8,532 variables (rows) and 9 column###
+
 ![Sales by Outlet](https://user-images.githubusercontent.com/99395688/226849271-e274dc01-e405-4a1c-8059-c5266fde8d31.png)
 ![Errors of Predicted Variables](https://user-images.githubusercontent.com/99395688/226849309-7a23902c-f329-429d-ab2e-39cdfd4e436f.png)
